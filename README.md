@@ -2,7 +2,7 @@
 
 This is a clock I coded whilst following [JS30](http://www.javascript30.com)
 
-[!alt text](screenshot.png)
+![screenshot](screenshot.png)
 
 In addition to the core functionality implemented via the tutorial, I added several additional elements:
 
