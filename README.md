@@ -2,6 +2,8 @@
 
 This is a clock I coded whilst following [JS30](http://www.javascript30.com)
 
+[!alt text](screenshot.png)
+
 In addition to the core functionality implemented via the tutorial, I added several additional elements:
 
 * A time display, by selecting an element id, and using interpolation to print out the time in HH:MM:SS format.
